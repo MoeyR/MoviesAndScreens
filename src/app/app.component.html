@@ -1,0 +1,18 @@
+<div class="main-wrap">
+  <app-module-header [pageInfoHeader]="pageData" [fetchExternalTheaterDetails]="theaterDetailsJson"></app-module-header>
+  
+  <div class="content">
+    <mat-tab-group class="tabs-style">
+      <mat-tab label="Show List of Movies">
+        <app-list-of-movies [fetchExternalMovieLists]="moviesJson"></app-list-of-movies>
+      </mat-tab>
+  
+      <mat-tab label="Show Movie Screens">
+        <app-movie-screens  [fetchExternalMovieLists]="moviesJson"></app-movie-screens>
+      </mat-tab>
+    </mat-tab-group>
+  </div>
+
+  <app-module-footer [pageInfoFooter]="pageData"></app-module-footer>
+</div>
+

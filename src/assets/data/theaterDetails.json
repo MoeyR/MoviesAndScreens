@@ -1,0 +1,81 @@
+{
+    "TheaterData":{
+        "theaterName": "CINEPLEX",
+        "location": "309 Rathburn Rd W",
+        "contactNumber": "(905) 275-3456"
+    },
+    "Movies":[
+        {
+            "screen": 1,
+            "movieName": "Godzilla Minus One",
+            "genre": "Action, Sci-Fi",
+            "runningTime": "3:50PM, 7:05PM, 10:15PM",
+            "releaseDate": "2023-05-15",
+            "rating": 8.5,
+            "ageRestriction":"PG-13"
+        },
+        {
+            "screen": 2,
+            "movieName": "The Hunger Games: The Ballad of Songbirds & Snakes",
+            "genre": "Action, Adventure",
+            "runningTime": "6:15PM, 9:55PM",
+            "releaseDate": "2023-07-21",
+            "rating": 7.2,
+            "ageRestriction":"PG"
+        },
+        {
+            "screen": 2,
+            "movieName": "Trolls Band Together",
+            "genre": "Animation, Musical",
+            "runningTime": "6:10PM, 8:55PM",
+            "releaseDate": "2023-11-10",
+            "rating": 6,
+            "ageRestriction":"G"
+        },
+        {
+            "screen": 3,
+            "movieName": "Aquaman And The Lost Kingdom",
+            "genre": "Action, Adventure, Sequel, Adaptation",
+            "runningTime": "3:30PM, 6:55PM, 10:30PM",
+            "releaseDate": "2023-12-05",
+            "rating": 7.1,
+            "ageRestriction":"PG-13"
+        },
+        {
+            "screen": 3,
+            "movieName": "The Boy and the Heron",
+            "genre": "Adventure, Animation, Drama, Fantasy",
+            "runningTime": "7:10PM, 10:15PM",
+            "releaseDate": "2023-12-01",
+            "rating": 9,
+            "ageRestriction":"PG"
+        },
+        {
+            "screen": 3,
+            "movieName": "RENAISSANCE: A FILM BY BEYONCÉ",
+            "genre": "Documentary, Music",
+            "runningTime": "4:00PM, 6:00PM, 9:40PM",
+            "releaseDate": "2023-04-28",
+            "rating": 8.1,
+            "ageRestriction":"PG"
+        },
+        {
+            "screen": 4,
+            "movieName": "Chicken Run: Dawn of the Nugget",
+            "genre": "Animation, Adventure, Comedy",
+            "runningTime": "3:10PM, 4:05PM, 10:30PM",
+            "releaseDate": "2023-12-05",
+            "rating": 8,
+            "ageRestriction":"PG"
+        },
+        {
+            "screen": 4,
+            "movieName": "Barbie",
+            "genre": "Comedy, Fantasy",
+            "runningTime": "6:00PM, 8:05PM",
+            "releaseDate": "2023-06-15",
+            "rating": 7,
+            "ageRestriction":"G"
+        }
+    ]
+}
